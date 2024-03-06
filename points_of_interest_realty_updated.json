@@ -1,0 +1,258 @@
+// 14 новостроек без ремонта
+// 1 недострой
+// 3 вторички
+// 2 новостроя с ремонтом
+[
+    { // новострой без ремонта
+        "address": "ул. Каховская (Никольская Слободка), 60, Киев",
+        "area": 36,
+        "price_on_web": 39600,
+        "url": "https://100realty.ua/object/375122427",
+        "district": "Dneprovskiy",
+        "meter_price_calculated": 1100,
+        "average_meter_price_calculated": 1366,
+        "accuracy": 6,
+        "correct_price_calculated": 49176,
+        "can_earn": 8618.4
+    },
+    { // новострой без ремонта
+        "address": "ул. Луценко Дмитрия, Киев",
+        "area": 37,
+        "price_on_web": 33000,
+        "url": "https://100realty.ua/object/375155974",
+        "district": "Solomenskiy",
+        "meter_price_calculated": 892,
+        "average_meter_price_calculated": 1228,
+        "accuracy": 6,
+        "correct_price_calculated": 45436,
+        "can_earn": 11192.4
+    },
+    { // новострой без ремонта
+        "address": "ул. Луценко Дмитрия, Киев",
+        "area": 35,
+        "price_on_web": 22000,
+        "url": "https://100realty.ua/object/375055717",
+        "district": "Goloseevcki",
+        "meter_price_calculated": 629,
+        "average_meter_price_calculated": 1228,
+        "accuracy": 6,
+        "correct_price_calculated": 42980,
+        "can_earn": 18882.0
+    },
+    { // новострой без ремонта
+        "address": "ул. Луценко Дмитрия, Киев",
+        "area": 57,
+        "price_on_web": 22000,
+        "url": "https://100realty.ua/object/375055726",
+        "district": "Goloseevcki",
+        "meter_price_calculated": 386,
+        "average_meter_price_calculated": 1228,
+        "accuracy": 6,
+        "correct_price_calculated": 69996,
+        "can_earn": 43196.4
+    },
+    { // новострой без ремонта
+        "address": "ул. Максимовича Михаила (Трутенко Онуфрия), Киев",
+        "area": 42,
+        "price_on_web": 36600,
+        "url": "https://100realty.ua/object/375055807",
+        "district": "Goloseevcki",
+        "meter_price_calculated": 871,
+        "average_meter_price_calculated": 1788,
+        "accuracy": 5,
+        "correct_price_calculated": 75096,
+        "can_earn": 34646.4
+    },
+    { // новострой без ремонта
+        "address": "ул. Гмыри Бориса, Киев",
+        "area": 36,
+        "price_on_web": 33000,
+        "url": "https://100realty.ua/object/373999390",
+        "district": "Darnitskiy",
+        "meter_price_calculated": 917,
+        "average_meter_price_calculated": 1117,
+        "accuracy": 4,
+        "correct_price_calculated": 40212,
+        "can_earn": 6490.8
+    },
+    { // новострой без ремонта
+        "address": "ул. Гмыри Бориса, Киев",
+        "area": 36,
+        "price_on_web": 26000,
+        "url": "https://100realty.ua/object/373999331",
+        "district": "Darnitskiy",
+        "meter_price_calculated": 722,
+        "average_meter_price_calculated": 1117,
+        "accuracy": 4,
+        "correct_price_calculated": 40212,
+        "can_earn": 12790.800000000001
+    },
+    { // вторичка очень далеко
+        "address": "ул. Милютенко, 11б, Киев",
+        "area": 28,
+        "price_on_web": 30000,
+        "url": "https://100realty.ua/object/375168996",
+        "district": "Desnyanskiy",
+        "meter_price_calculated": 1071,
+        "average_meter_price_calculated": 1273,
+        "accuracy": 4,
+        "correct_price_calculated": 35644,
+        "can_earn": 5079.6
+    },
+    { // новострой без ремонта
+        "address": "Глушкова Академика просп., 6, Киев",
+        "area": 33,
+        "price_on_web": 17400,
+        "url": "https://100realty.ua/object/375127686",
+        "district": "Goloseevcki",
+        "meter_price_calculated": 527,
+        "average_meter_price_calculated": 762,
+        "accuracy": 4,
+        "correct_price_calculated": 25146,
+        "can_earn": 6971.400000000001
+    },
+    { // новострой с ремонтом
+        "address": "ул. Заболотного Академика, Киев",
+        "area": 28,
+        "price_on_web": 28000,
+        "url": "https://100realty.ua/object/375153782",
+        "district": "Goloseevcki",
+        "meter_price_calculated": 1000,
+        "average_meter_price_calculated": 1241,
+        "accuracy": 4,
+        "correct_price_calculated": 34748,
+        "can_earn": 6073.2
+    },
+    { // новострой без ремонта
+        "address": "Харьковское шоссе, 19, Киев",
+        "area": 53,
+        "price_on_web": 34000,
+        "url": "https://100realty.ua/object/375170208",
+        "district": "Darnitskiy",
+        "meter_price_calculated": 642,
+        "average_meter_price_calculated": 784,
+        "accuracy": 3,
+        "correct_price_calculated": 41552,
+        "can_earn": 6796.8
+    },
+    { // новострой без ремонта
+        "address": "ул. Практичная, 2, Киев",
+        "area": 28,
+        "price_on_web": 37500,
+        "url": "https://100realty.ua/object/375169437",
+        "district": "Goloseevcki",
+        "meter_price_calculated": 1339,
+        "average_meter_price_calculated": 1630,
+        "accuracy": 3,
+        "correct_price_calculated": 45640,
+        "can_earn": 7326.0
+    },
+    { // новострой без ремонта
+        "address": "ул. Днепродзержинская, 6, Киев",
+        "area": 32,
+        "price_on_web": 35000,
+        "url": "https://100realty.ua/object/375118821",
+        "district": "Darnitskiy",
+        "meter_price_calculated": 1094,
+        "average_meter_price_calculated": 1273,
+        "accuracy": 3,
+        "correct_price_calculated": 40736,
+        "can_earn": 5162.400000000001
+    },
+    { // новострой с ремонтом
+        "address": "ул. Гмыри Бориса, 20, Киев",
+        "area": 37,
+        "price_on_web": 23500,
+        "url": "https://100realty.ua/object/375160167",
+        "district": "Darnitskiy",
+        "meter_price_calculated": 635,
+        "average_meter_price_calculated": 804,
+        "accuracy": 2,
+        "correct_price_calculated": 29748,
+        "can_earn": 5623.2
+    },
+    { // новострой без ремонта
+        "address": "ул. Милославская, 2б, Киев",
+        "area": 36,
+        "price_on_web": 23600,
+        "url": "https://100realty.ua/object/375163533",
+        "district": "Desnyanskiy",
+        "meter_price_calculated": 656,
+        "average_meter_price_calculated": 859,
+        "accuracy": 2,
+        "correct_price_calculated": 30924,
+        "can_earn": 6591.6
+    },
+    { // вторичка, 3 этаж из 9
+        "address": "Оболонский просп., 10, Киев",
+        "area": 37,
+        "price_on_web": 27500,
+        "url": "https://100realty.ua/object/375166044",
+        "district": "Obolonskiy",
+        "meter_price_calculated": 743,
+        "average_meter_price_calculated": 974,
+        "accuracy": 2,
+        "correct_price_calculated": 36038,
+        "can_earn": 7684.2
+    },
+    { // вторичка, 4 этаж из 9
+        "address": "Чоколовский бул., 6, Киев",
+        "area": 24,
+        "price_on_web": 32000,
+        "url": "https://100realty.ua/object/375160062",
+        "district": "Solomenskiy",
+        "meter_price_calculated": 1333,
+        "average_meter_price_calculated": 1526,
+        "accuracy": 3,
+        "correct_price_calculated": 36624,
+        "can_earn": 4624.0
+    },
+    { // вторичка, 7 этаж из 9
+        "address": "Чоколовский бул., 6, Киев",
+        "area": 31,
+        "price_on_web": 34000, // с налогами 35870
+        "url": "https://100realty.ua/object/375168967",
+        "district": "Solomenskiy",
+        "meter_price_calculated": 1096,
+        "average_meter_price_calculated": 1526,
+        "accuracy": 3,
+        "correct_price_calculated": 47306,
+        "can_earn": 13306.0 // 11436 разница (еще минус налоги с продажи 3548 = 7888 (налог 5913 вторая = 5913 навар)
+    },
+    { // новострой без ремонта
+        "address": "ул. Светлая, 3д, Киев",
+        "area": 45,
+        "price_on_web": 27000,
+        "url": "https://100realty.ua/object/375170204",
+        "district": "Darnitskiy",
+        "meter_price_calculated": 600,
+        "average_meter_price_calculated": 826,
+        "accuracy": 2,
+        "correct_price_calculated": 37170,
+        "can_earn": 9153.0
+    },
+    { // новострой без ремонта
+        "address": "ул. Практичная, 6, Киев",
+        "area": 28,
+        "price_on_web": 37000,
+        "url": "https://100realty.ua/object/374816088",
+        "district": "Solomenskiy",
+        "meter_price_calculated": 1321,
+        "average_meter_price_calculated": 1701,
+        "accuracy": 2,
+        "correct_price_calculated": 47628,
+        "can_earn": 9565.2
+    },
+    { // недострой
+        "address": "ул. Софии Русовой, Киев",
+        "area": 36,
+        "price_on_web": 21000,
+        "url": "https://100realty.ua/object/374159213",
+        "district": "Darnitskiy",
+        "meter_price_calculated": 583,
+        "average_meter_price_calculated": 768,
+        "accuracy": 2,
+        "correct_price_calculated": 27648,
+        "can_earn": 5983.2
+    }
+]
